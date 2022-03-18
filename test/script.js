@@ -5,7 +5,7 @@ Song: LAKEY INSPIRED - Chill Day (Vlog No Copyright Music) Music provided by Vlo
 
 var audio, audioContext, audioSrc;
 var analyser, analyserBufferLength;
-var audioInfo = 'Song: LAKEY INSPIRED - Chill Day';
+var audioInfo = 'Love - Sosa Remix';
 
 //---
 
